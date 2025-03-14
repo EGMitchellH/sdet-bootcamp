@@ -1,4 +1,5 @@
 ﻿namespace SdetBootcampDay1.TestObjects
+//Random comment
 {
     public class Account
     {
